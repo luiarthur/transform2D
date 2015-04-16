@@ -1,3 +1,4 @@
+
 ## =============================================================================
 ## Polar BarChart
 ## Original Polar Histogram by Christophe Ladroue
